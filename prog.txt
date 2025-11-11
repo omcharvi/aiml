@@ -1,0 +1,6 @@
+2025-11-09 20:26:27,140 - INFO - Program started
+2025-11-09 20:26:29,321 - INFO - User entered: 45
+2025-11-09 20:26:30,361 - INFO - User entered: 55
+2025-11-09 20:26:30,361 - INFO - Result of division: 0.8181818181818182
+2025-11-09 20:26:30,361 - INFO - Program ended successfully
+2025-11-09 20:26:30,361 - DEBUG - Execution completed
